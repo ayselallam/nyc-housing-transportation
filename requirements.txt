@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+requests>=2.31
+plotly>=5.18
+dash>=2.14
+nbformat>=5.9
